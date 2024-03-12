@@ -82,7 +82,7 @@ cm_display.plot()
 
 ## Output:
 ![Screenshot 2024-03-12 185917](https://github.com/HEMAKESHG/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/144870552/762aa859-14c6-4c56-bee7-adfc8a2665c8)
-
+![Screenshot 2024-03-12 185936](https://github.com/HEMAKESHG/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/144870552/b0a01256-9bec-421c-93e0-fa2e25039be5)
 
 ## Result:
 Thus the program to implement the the Logistic Regression Model to Predict the Placement Status of Student is written and verified using python programming.
